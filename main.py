@@ -78,8 +78,6 @@ def choice_char_class():
     return char_class
 
 
-
-
 def main():
     print('Приветствую тебя, искатель приключений!')
     print('Прежде чем начать игру...')
